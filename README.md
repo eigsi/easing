@@ -1,22 +1,23 @@
 # EASING
 EASING is a Desktop Application that allows you to create front-end animations in an intuitive way. With its graphical interface, real-time preview, and JSON export functionality, EASING makes it easy to integrate advanced animations into your code using a dedicated JavaScript/TypeScript library.
 
-## Basics Fonctionalities
-- **Animation Editor**: Create and fine-tune animations with a graph-based interface and keyframe editor.
+## :art: Basics Fonctionalities
+- **Animation Editor** : Create and fine-tune animations with a graph-based interface and keyframe editor.
+![Logo EASING](assets/logo.png)
 - **Integrated Web Preview**: Navigate your website within the application, select elements, and see how your animations will look in real time.
 - **Real-Time Preview**: Instantly view your animation adjustments, ensuring precise timing and visual feedback.
 - **JSON Export**: Export your animations as a JSON file, which can then be easily imported and executed in your projects.
 - **Animation Library**: A dedicated JavaScript/TypeScript library that reads the exported JSON and applies the animations to targeted elements in your code.
 
-## Getting Started
+## :rocket: Getting Started
 
 _EASING is currently in its early stages of development. Contributions are welcome to help shape the project!_
 
-## Contributing
+## :smile: Contributing
 
 We welcome contributions from the community. If you’d like to help improve EASING, please take a look at our [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to get started. Any feedback, bug reports, or suggestions are greatly appreciated.
 
-## License
+## :book: License
 
 EASING is released under the GNU GPLv3 license. See the [LICENSE](LICENSE) file for details.
 
