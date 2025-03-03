@@ -3,7 +3,9 @@ EASING is a Desktop Application that allows you to create front-end animations i
 
 ## :art: Basics Fonctionalities
 - **Animation Editor** : Create and fine-tune animations with a graph-based interface and keyframe editor.
+
 ![GRAPH EXEMPLE](assets/inspirations/ae-graph.png)
+
 - **Integrated Web Preview**: Navigate your website within the application, select elements, and see how your animations will look in real time.
 - **Real-Time Preview**: Instantly view your animation adjustments, ensuring precise timing and visual feedback.
 - **JSON Export**: Export your animations as a JSON file, which can then be easily imported and executed in your projects.
